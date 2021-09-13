@@ -1,0 +1,87 @@
+#navegacion{
+    margin-top: 20px;
+    text-align: center;
+}
+.naveitem{
+    border-left-style: solid;
+    border-left-color: black;
+    border-left-width: 1px;
+}
+#naveitemo{
+    border-left-style: solid;
+    border-left-color: black;
+    border-left-width: 1px;
+    border-right-style: solid;
+    border-right-color: black;
+    border-right-width: 1px;
+}
+.navnactiv{
+    background-color: chocolate;
+    border-bottom-style: solid;
+    border-bottom-color: black;
+    border-bottom-width: 1px;
+    
+}
+.navactiv{
+    border-top-style: solid;
+    border-top-color: black;
+    border-top-width: 1px;
+    
+}
+.prvnoticias{
+    margin-top: 20px;    
+    background-color: rgba(255, 255, 255, 0.5);
+}
+.imgnoticias{
+    width: 200px;
+    display:inline-block;
+    height: 150px;
+}
+.txtnoticias{
+    margin-left: 10px;
+    display:inline-block;
+}
+a:hover {
+    outline: none;
+    text-decoration: none;
+    color: rgb(65, 40, 7);
+}
+a:active{
+    outline: none;
+    text-decoration: none;
+    color: rgb(65, 40, 7);
+}
+a{
+    outline: none;
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+}
+a:link{
+    outline: none;
+    text-decoration: none;
+}
+.lm{
+    text-align: right;
+
+}
+.lma{
+    color: rgb(73, 52, 23);
+}
+.lma:hover{
+    color: rgb(255, 255, 255);
+}
+.datos{
+    color: white;
+    margin-top: 30px;
+    background-color: rgba(0, 0, 0, 0.5);
+}
+.imgdatos{
+    width: 100px;
+    margin-top: 20px;
+    margin-left: 30%;
+}
+.txtdatos{
+    margin-top: 50px;
+    text-align: center;
+   
+}
